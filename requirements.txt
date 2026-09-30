@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+requests
+cd ~/population_project
+git init
+git add .
+git commit -m "Togo population dashboard"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/togo-population-dashboard.git
+git push -u origin main
